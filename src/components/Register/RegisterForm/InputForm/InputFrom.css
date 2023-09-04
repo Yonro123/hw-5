@@ -1,0 +1,18 @@
+.inputForm {
+  width: 90%;
+}
+.success {
+  height: 0;
+  color: white;
+  background-color: dodgerblue;
+  transition: all 1s ease;
+}
+.success.open {
+  height: 45px;
+  padding: 10px;
+}
+span {
+  padding: 0px 20px;
+  color: red;
+  font-size: 16px;
+}
